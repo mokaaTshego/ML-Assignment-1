@@ -1,0 +1,35 @@
+commit 2683aa9859ce0113b1a6fc3ec3c630d489f793f3
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Tue May 3 10:46:08 2022 +0200
+
+    Added the code to train data and perform validation
+
+commit 07d091551a0441b9f333b59aa060a376e2a9e42b
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Tue Apr 26 23:53:20 2022 +0200
+
+    I added necessary ways to prepare the environment
+
+commit 3a68d665ca2aa07ad810ce3ff87f0a87b21a8ed3
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Tue Apr 26 23:52:22 2022 +0200
+
+    I implemented the ways to import datasets
+
+commit 30f878a87ae2ea69c6229d8566780cc85fd62c3e
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Mon Apr 25 22:14:16 2022 +0200
+
+    I added the requirements.txt containing libraries that are needed when running the script
+
+commit 20654220202b9f30c2dcb3c7eed06f0136d78155
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Mon Apr 25 22:11:21 2022 +0200
+
+    I added a Makefile to create an environment to help run the script
+
+commit 856aefd62d283435b64b7cacf40a5c9901c22347
+Author: Tshegofatso Mokaa <mkxtsh013@myuct.ac.za>
+Date:   Mon Apr 25 22:02:42 2022 +0200
+
+    I added the classifier script
